@@ -3,7 +3,7 @@
     "h1": {
         "style": "bold",
         "size": 60,
-        "lineHeight": 60,
+        "lineHeight": 36,
         "decoration": "none"
     },
     "h2": {
